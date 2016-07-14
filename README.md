@@ -62,8 +62,5 @@ Script is licensed under MIT license with one exception: Do not create a public 
 
 Attribution is not required, but much appreciated, especially if you’re making a product for developers.
 
-## About
-
-PhotoSwipe 4.0+ is developed by [Dmitry Semenov](http://twitter.com/dimsemenov). But initially script was created in 2011 by [Code Computerlove](http://www.codecomputerlove.com/), a digital agency in Manchester, they [passed](https://twitter.com/PhotoSwipe/status/444134042787930113) on development in March 2014. You can view [source and documentation](https://github.com/dimsemenov/PhotoSwipe/tree/v3.0.3) of old PhotoSwipe (<4.0) in history of this repo.
 
 
